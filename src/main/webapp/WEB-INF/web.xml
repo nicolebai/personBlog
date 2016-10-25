@@ -32,7 +32,7 @@
 	
 	<servlet-mapping>
 	<servlet-name>velocity</servlet-name>
-	<url-pattern>*.vm</url-pattern>
+	<url-pattern>*.html</url-pattern>
 	</servlet-mapping>
 	
 
